@@ -6,6 +6,10 @@ of DevNQ.
 * [Code of Conduct](code-of-conduct.md)
 * [Mission Statement](mission.md)
 
+## License
+
+All documents in this repository (unless otherwise noted) are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 ## Contributing
 
 DevNQ welcomes contributions to our governance documentation. Users are
