@@ -1,4 +1,4 @@
-# DevNQ Mission
+# DevNQ Mission Statement
 
 ## Status of this Document
 

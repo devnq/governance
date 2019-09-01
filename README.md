@@ -3,6 +3,9 @@
 This repository contains the policies, procedures and behavioural codes
 of DevNQ.
 
+* [Code of Conduct](code-of-conduct.md)
+* [Mission Statement](mission.md)
+
 ## Contributing
 
 DevNQ welcomes contributions to our governance documentation. Users are
