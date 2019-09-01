@@ -1,7 +1,7 @@
 # DevNQ Governance Repository
 
-This repository contains the policies, procedures, behavioural codes
-and constitution of DevNQ.
+This repository contains the policies, procedures and behavioural codes
+of DevNQ.
 
 ## Contributing
 

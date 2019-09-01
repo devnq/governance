@@ -80,8 +80,6 @@ reporter of an incident.
 
 Following review and investigation the board of directors of DevNQ may
 take further actions to enforce this code of conduct such as:
-- revoking the membership of individuals
-- revoking the good standing of individuals
 - permanently banning individuals from attending DevNQ events
 - permanently banning individuals from accessing DevNQ digital
 communities
