@@ -80,7 +80,7 @@ enforce this Code of Conduct, such as:
   if the behaviour continues
 * temporarily removing individuals from a venue
 * restricting the access of individuals to DevNQ digital communities
-  (ie. Slack, GitHub, etc.)
+  (ie. Slack, Meetup, GitHub, etc.)
 * reporting the incident to police or other authorities
 
 Following review and investigation of an incident, the organisers committee of
