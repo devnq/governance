@@ -32,7 +32,7 @@ When engaging with the DevNQ community:
   and ideals
 * Be empathetic and understanding of the experiences of others
 * Ensure criticism is constructive and relevant
-* Ensure all content and physically or digitally-shared material is
+* Ensure all content and physically- or digitally-shared material is
   suitable for people aged 12 and above
 * Members should use language which is appropriate for an all-ages
   audience as far as possible
@@ -55,7 +55,7 @@ may result in disciplinary actions:
   or discrimination and/or exclusion based on age, body size, disability,
   ethnicity, sex characteristics, gender identity and expression, level of
   experience, education, socio-economic status, nationality, personal
-  appearance, race, religion, or sexual identity and orientation.
+  appearance, race, religion, or sexual identity and orientation
 * conduct which is considered unethical or inappropriate by the DevNQ
   organisers committee
 * conduct which is considered illegal under the laws of the State of

@@ -61,7 +61,7 @@ pull request which can be reviewed by our maintainers.
   of other changes. Contributors should expect a high level of rigour and
   review be undertaken for any amendments to this documentation.
 * Copyrighted content should only be included in DevNQ documentation
-  with the copyright holders permission. Contributions containing copyrighted
+  with the copyright holder's permission. Contributions containing copyrighted
   content should be accompanied with evidence of the copyright holder issuing
   DevNQ unlimited and perpetual rights to utilise their content in our
   governance documentation.
