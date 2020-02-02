@@ -11,7 +11,7 @@ pull request.
 
 DevNQ is committed to fostering an open and welcoming environment, making
 participation in our community, events and projects fun and harassment-free.
-As a diverse community, it is important that DevNQ sets standard for
+As a diverse community, it is important that DevNQ sets standards for
 acceptable behaviour for all of our community members and representatives.
 
 ## Scope
@@ -32,7 +32,7 @@ When engaging with the DevNQ community:
   and ideals
 * Be empathetic and understanding of the experiences of others
 * Ensure criticism is constructive and relevant
-* Ensure all content and physically- or digitally-shared material is
+* Ensure all content and physically or digitally shared material is
   suitable for people aged 12 and above
 * Members should use language which is appropriate for an all-ages
   audience as far as possible
