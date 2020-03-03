@@ -52,7 +52,7 @@ may result in disciplinary actions:
 * publication of private or personal information (including email
   address) without permission
 * offensive remarks related to (whether spoken, or digitally shared),
-  or discrimination and/or exclusion based on age, body size, disability,
+  or discrimination and/or exclusion based on age, body size, ability,
   ethnicity, sex characteristics, gender identity and expression, level of
   experience, education, socio-economic status, nationality, personal
   appearance, race, religion, or sexual identity and orientation
@@ -61,16 +61,15 @@ may result in disciplinary actions:
 * conduct which is considered illegal under the laws of the State of
   Queensland or the Commonwealth of Australia
 
-## Incident Reporting & Enforcement
+## Concerns, Reporting and Resolution
 
-Instances of any unacceptable behaviour may be reported to DevNQ
-representatives at events or by contacting the DevNQ organisers committee at
-<info@devnq.org>.
+Instances of any unacceptable behaviour, or concerns may be reported to DevNQ
+Community Officers at events or by contacting <safety@devnq.org>.
 
 All reports are taken seriously and will be reviewed and investigated,
 resulting in a response that is deemed necessary and appropriate to the
-circumstances.  DevNQ is obligated to maintain confidentiality with regard to
-the reporter of an incident.
+circumstances. DevNQ and it's community officers are obligated to maintain
+confidentiality.
 
 Representatives of DevNQ, acting in good faith, may take immediate action to
 enforce this Code of Conduct, such as:
