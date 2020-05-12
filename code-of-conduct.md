@@ -1,14 +1,5 @@
 # DevNQ Code of Conduct
 
-## Status of this Document
-
-This document contains the proposed Code of Conduct of DevNQ. This document is
-published to encourage comments, corrections and amendments before its
-finalisation. We encourage you to contribute to this document by submitting a
-pull request.
-
-----
-
 DevNQ is committed to fostering an open and welcoming environment, making
 participation in our community, events and projects fun and harassment-free.
 As a diverse community, it is important that DevNQ sets standards for
