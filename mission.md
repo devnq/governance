@@ -1,14 +1,5 @@
 # DevNQ Mission Statement
 
-## Status of this Document
-
-This document contains the proposed Mission Statement of DevNQ. This document
-is published to encourage comments, corrections and amendments before its
-finalisation. We encourage you to contribute to this document by submitting a
-pull request.
-
-----
-
 The mission of DevNQ is to:
 
 * support the advancement of the software and hardware development industry in
